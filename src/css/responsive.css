@@ -1,0 +1,37 @@
+@media (max-width: 620px) {
+    .dbz-slider {
+      padding: 0px 15px;
+      /* gap: 5px; */
+      width: 600px;
+      
+    }
+    
+  
+    .btn-arrow {
+      width: 20px;
+      height: 20px;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+     
+    }
+  
+    .cards-list {
+      height: 480px;
+    }
+  
+    .card .image-char {
+      max-height: 230px;
+      padding: 20px;
+    }
+  
+    .card .information .name {
+      max-width: 50%;
+      font-size: 18px;
+    }
+  
+    .card .information .life {
+      font-size: 14px;
+    }
+  }
